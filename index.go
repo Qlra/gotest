@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
-	println("MUKADENI SASARAETA")
+	fmt.Printf("うんこ\n")
 }
